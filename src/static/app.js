@@ -1,3 +1,4 @@
+// Static JavaScript for the activity signup application
 document.addEventListener("DOMContentLoaded", () => {
   const activitiesList = document.getElementById("activities-list");
   const activitySelect = document.getElementById("activity");
